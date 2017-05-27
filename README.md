@@ -3,7 +3,7 @@ The software I use daily:
 
 ### Core:
 * Windows 7 Professional x64 SP1
-* Cygwin x64
+* Cygwin x64 (<https://github.com/michalbielejewski/dotfiles>)
 
 ### File tools:
 * Total Commander 9.0a x64
@@ -58,4 +58,3 @@ The software I use daily:
 * https://stackedit.io/editor
 * http://www.amp-what.com/unicode/search/
 * http://ticktick.com
-*
