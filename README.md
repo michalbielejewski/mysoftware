@@ -34,7 +34,7 @@ The software I use daily:
 * KeePass: <http://keepass.info/>
 * aria2c with webui-aria2: <https://aria2.github.io/> + <http://ziahamza.github.io/webui-aria2/>
 
-### Getting thins done faster:
+### Getting things done faster:
 * SnapX: <https://github.com/benallred/SnapX>
 * Launchy: <https://www.launchy.net/>
 * Phraseexpress: <http://www.phraseexpress.com/>
